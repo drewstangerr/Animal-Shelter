@@ -1,0 +1,17 @@
+.Animal{
+  width: 300px;
+  float: left;
+  border: 2px solid green;
+  padding: 40px;
+  position: inherit;
+}
+img {
+  height: 80px;
+}
+.Animal p {
+  font-weight:bold;
+  font-family:sans-serif;
+}
+.Animal img{
+  border: 2px solid blue;
+}
